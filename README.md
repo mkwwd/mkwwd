@@ -39,7 +39,7 @@
     <td> React, ReactQuery, Three.js, TypeScript </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Gitaehasam/fishingKingOfToday">오늘의 낚시왕</a></td>
+    <td><a href="https://github.com/Gitaehasam/fishingKingOfToday">오늘은 낚시왕</a></td>
     <td> 낚시에 입문하고자 하는 MZ세대 맞춤 초보자용 낚시 서비스 (2024) </td>
     <td> React, Three.js, JavaScript </td>
   </tr>
