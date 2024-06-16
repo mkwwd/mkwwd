@@ -13,7 +13,7 @@
 <p align="center"> 🛠 More 🛠 <p>
 <div  align="center">
   
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkwhwkdud)](https://solved.ac/mkwhwkdud)
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkwhwkdud)](https://solved.ac/mkwhwkdud)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkwwd&layout=compact&theme=dracula&langs_count=8"/>
 
 </div> 
 <br>
