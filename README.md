@@ -37,7 +37,7 @@
     <td>  Next.js, ReactQuery, React, TypeScript, Zustand </td>
   </tr>
   <tr>
-    <td><a href="/">Moding</a></td>
+    <td><a href="https://github.com/Fintechtefin/moding">Moding</a></td>
     <td> 영화 재상영 펀딩 서비스 &lt;무딩&gt; (2024) </td>
     <td> React, ReactQuery, Three.js, TypeScript </td>
   </tr>
