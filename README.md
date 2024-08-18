@@ -70,12 +70,12 @@
   />
    <img
     src="https://render.gitanimals.org/lines/mkwwd?pet-id=599395061562039749"
-    width="200"
+    width="150"
     height="120"
   />
  <img
     src="https://render.gitanimals.org/lines/mkwwd?pet-id=600303836166839160"
-    width="200"
+    width="150"
     height="120"
   />
   <img
