@@ -32,7 +32,7 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
-    <td><a href="">DDIB & BIDD</a></td>
+    <td><a href="https://github.com/mkwwd/DDIB-BIDD">DDIB & BIDD</a></td>
     <td> 타임딜 이벤트 플랫폼 대여 서비스 (2024) </td>
     <td>  Next.js, React, ReactQuery, TypeScript, Zustand </td>
   </tr>
