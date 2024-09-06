@@ -75,7 +75,7 @@
   />
  <img
     src="https://render.gitanimals.org/lines/mkwwd?pet-id=600303836166839160"
-    width="170"
+    width="180"
     height="120"
   />
   <img
