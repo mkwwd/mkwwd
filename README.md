@@ -49,7 +49,7 @@
   <tr>
     <td><a href="https://github.com/mkwwd/Poravel">Poravel</a></td>
     <td> 공공데이터를 활용한 사진명소추천, 추억공유 플랫폼 (2023) </td>
-    <td>Vue.js, JavaScript, Pinia, Java, Spring Boot, MyBatis</td>
+    <td>Vue.js, JavaScript, Pinia, Java, Spring Boot </td>
   </tr>
 
 </table>
