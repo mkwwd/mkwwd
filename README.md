@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=300&section=header&text=JaYoung's%20GitHub%20&fontSize=80&animation=twinkling&fontColor=FFFFFF&stroke=cfc4f2&fontAlignY=45&desc=Welcome&nbsp;to&asmp&descAlignY=25&descSize=30)
 
 
-<h2> 🤩 Tech Stack 🤩 </h2>
-<div>
+<h2 align="center"> 🤩 Tech Stack 🤩 </h2>
+<div align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
     <br>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -18,7 +18,7 @@
 <br>
 
 <br>
-<h2> 😎 Project 😎 </h2>
+<h2 align="center"> 😎 Project 😎 </h2>
 <div  align="center">
   
 <table>
@@ -53,7 +53,7 @@
 </div> 
 
 <br>
-<h2> 😶 More 😶 </h2>
+<h2 align="center"> 😶 More 😶 </h2>
   
   
 <div display="flex"  align="center" >
