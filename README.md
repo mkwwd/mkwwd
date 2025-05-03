@@ -37,12 +37,12 @@
   <tr>
     <td><a href="https://github.com/Fintechtefin/moding">Moding</a></td>
     <td> 영화 재상영 펀딩 서비스 &lt;무딩&gt; (2024) </td>
-    <td> React, ReactQuery, react-three-fiber, TypeScript </td>
+    <td> React, ReactQuery, TypeScript, react-three-fiber </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Gitaehasam/fishingKingOfToday">오늘은 낚시왕</a></td>
     <td> 낚시에 입문하고자 하는 MZ세대 맞춤 초보자용 낚시 서비스 (2024) 🏆</td>
-    <td> React, Three.js, JavaScript </td>
+    <td> React, JavaScript, Three.js  </td>
   </tr>
   <tr>
     <td><a href="https://github.com/mkwwd/Poravel">Poravel</a></td>
