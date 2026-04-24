@@ -65,7 +65,7 @@
 </div> 
 <br>
 
-<div>
+<div display="flex" align="center">
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/mkwwd"/>
